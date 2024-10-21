@@ -1,24 +1,25 @@
 import tkinter as tk
+from tkinter import filedialog
 from tkinter import messagebox
 
 def upload_file():
     messagebox.showinfo("Opção 1", "Você escolheu a opção 1!")
     
 def select_file():
-    arquivo = filedialog.askopenfilename(
-        title="Selecione um arquivo",
-        filetypes=(("Arquivos de texto", "*.txt"), ("Todos os arquivos", "*.*"))
+    file = filedialog.askopenfilename(
+        title="Select a file",
+        filetypes=(("text files", "*.txt"), ("All files", "*.*"))
     )
     
-    if arquivo:
-        label_arquivo.config(text=f"Arquivo selecionado: {arquivo}")
-        # Aqui você pode processar o arquivo (ex: abrir e ler o conteúdo)
-        with open(arquivo, 'r') as f:
+    if file:
+        label_file.config(text=f"file selecionado: {file}")
+        # Aqui você pode processar o file (ex: abrir e ler o conteúdo)
+        with open(file, 'r') as f:
             conteudo = f.read()
             print(conteudo)  # Apenas para exemplo
 
     else:
-        messagebox.showwarning("Nenhum arquivo", "Você não selecionou nenhum arquivo.")
+        messagebox.showwarning("Nenhum file", "Você não selecionou nenhum file.")
 
 def conversation_summary():
     messagebox.showinfo("Opção 2", "Você escolheu a opção 2!")
