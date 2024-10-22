@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# ..creates a bar chart with the data..
 def summary_of_conversations(df):
     if(df is None):
         messagebox.showwarning("No", "No file selected.")
@@ -20,7 +19,6 @@ def summary_of_conversations(df):
     plt.title('Messages by Sender', fontsize=14)
     plt.show()
 
-# ..generate excel file with the all the messages of a sender..
 def sender_history(df, selected_sender):
     if(df is None):
         messagebox.showwarning("No", "No file selected.")
