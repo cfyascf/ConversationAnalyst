@@ -68,7 +68,8 @@ def create_filter_window():
     root.configure(padx=20, pady=20)
 
     ui.small_label(root, "Select sender to generate an excel file with their message data.")
-    dropdown = ui.dropdown(root, DF['Sender'].unique().tolist())
+    names = DF['Sender'].unique().tolist()
+    dropdown = ui.dropdown(root, names)
     ui.button(root, "Submit", lambda: when_sender_selected(dropdown))
     
     root.mainloop()

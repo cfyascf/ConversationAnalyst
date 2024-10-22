@@ -47,7 +47,7 @@ def dialog(text):
 def dropdown(window, values):
     dropdown = ttk.Combobox(
         window, 
-        values
+        values=values
     )
     dropdown.pack(pady=10)
     

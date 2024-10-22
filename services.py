@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # ..creates a bar chart with the data..
 def summary_of_conversations(df):
-    if(df == None):
+    if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
     summary = df['Sender'].value_counts().reset_index()
@@ -22,7 +22,7 @@ def summary_of_conversations(df):
 
 # ..generate excel file with the all the messages of a sender..
 def sender_history(df, selected_sender):
-    if(df == None):
+    if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
     system_path = "C:\\Users\\Yasmim da Cunha\\Documents\\Codes\\Python\\wpp\\ConversationAnalyst\\"
@@ -39,7 +39,7 @@ def sender_history(df, selected_sender):
         messages_df.to_excel(writer, index=False, startrow=2, startcol=0)
         
 def sender_history_histogram(df):
-    if(df == None):
+    if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
     grouped = df.groupby(['Date', 'Sender']).size().reset_index(name='Count')
@@ -48,7 +48,7 @@ def sender_history_histogram(df):
 
     for sender in grouped['Sender'].unique():
         sender_data = grouped[grouped['Sender'] == sender]
-        plt.bar(sender_data['Date'], sender_data['Count'], width=1, label=sender)
+        plt.bar(sender_data['Date'], sender_data['Count'], width=0.4, label=sender)
 
     plt.xlabel('Date')
     plt.ylabel('Number of Messages')
@@ -59,7 +59,7 @@ def sender_history_histogram(df):
     plt.show()
     
 def sender_percentage_pizzachart(df):
-    if(df == None):
+    if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
     message_counts = df['Sender'].value_counts().reset_index()
@@ -78,7 +78,7 @@ def sender_percentage_pizzachart(df):
     plt.show()
     
 def message_count_linechart(df):
-    if(df == None):
+    if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
     message_counts = df.groupby(['Date', 'Sender']).size().unstack(fill_value=0)
