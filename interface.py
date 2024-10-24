@@ -36,6 +36,7 @@ def create_main_window():
 def create_file_window():
     root = tk.Toplevel()
     root.configure(padx=20, pady=20)
+    root.attributes('-topmost', True)
 
     label = ui.small_label(root, "No file selected.")
     ui.button(root, "Upload", lambda: select_file(label))

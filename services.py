@@ -3,13 +3,21 @@ from tkinter import messagebox
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from openpyxl import load_workbook
 
 def summary_of_conversations(df):
     if(df is None):
         messagebox.showwarning("No", "No file selected.")
         
+    print(df.head(5))
+        
     summary = df['Sender'].value_counts().reset_index()
     summary.columns = ['Sender', 'Total Conversations']
+    
+    if summary.empty:
+        messagebox.showwarning("Warning", "No conversations found.")
+        return
+    
     summary.sort_values(by='Total Conversations', ascending=False, inplace=True)
     
     plt.figure(figsize=(8, len(summary) * 0.5)) 
@@ -20,21 +28,41 @@ def summary_of_conversations(df):
     plt.show()
 
 def sender_history(df, selected_sender):
-    if(df is None):
+    if df is None:
         messagebox.showwarning("No", "No file selected.")
-        
+        return
+    
     system_path = "C:\\Users\\Yasmim da Cunha\\Documents\\Codes\\Python\\wpp\\ConversationAnalyst\\"
     file_name = f"messages_from_{selected_sender}.xlsx"
     
-    if(os.path.exists(system_path + file_name)):
+    if os.path.exists(system_path + file_name):
         os.remove(system_path + file_name)
     
     messages = df.loc[df['Sender'] == selected_sender, ['Date', 'Time', 'Message']]
     messages_df = pd.DataFrame(messages).reset_index(drop=True)
 
-    with pd.ExcelWriter(file_name) as writer:
+    full_file_path = system_path + file_name
+    
+    with pd.ExcelWriter(full_file_path, engine='openpyxl') as writer:
         pd.DataFrame([['Messages from: ' + selected_sender]]).to_excel(writer, index=False, header=False, startrow=0, startcol=0)
         messages_df.to_excel(writer, index=False, startrow=2, startcol=0)
+    
+    wb = load_workbook(full_file_path)
+    ws = wb.active
+
+    for column_cells in ws.columns:
+        max_length = 0
+        column = column_cells[0].column_letter 
+        for cell in column_cells:
+            try:
+                if len(str(cell.value)) > max_length:
+                    max_length = len(str(cell.value))
+            except:
+                pass
+        adjusted_width = (max_length + 2)
+        ws.column_dimensions[column].width = adjusted_width
+
+    wb.save(full_file_path)
         
 def sender_history_histogram(df):
     if(df is None):

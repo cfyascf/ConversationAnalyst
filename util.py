@@ -12,14 +12,15 @@ def read_and_process_file(file):
         raw_data = f.readlines()
 
     messages = []
-    message_pattern = re.compile(r'^\[\d{2}/\d{2}/\d{4}, \d{2}:\d{2}:\d{2}\]') 
+    ios_message_pattern = re.compile(r'^\[\d{2}/\d{2}/\d{4}, \d{2}:\d{2}:\d{2}\]') 
+    android_message_pattern = re.compile(r'^(\d{2}/\d{2}/\d{4}) (\d{2}:\d{2}) - ([\w\s]+): (.+)$') 
     current_message = None
     
     # ..for line in file, checks if the line is a message header, 
     # if it is, adds the line to the list, if it isn't, adds the line to 
     # the last message in list..
     for line in raw_data:
-        if message_pattern.match(line):
+        if ios_message_pattern.match(line) or android_message_pattern.match(line):
             
             # ..takes off /n and this word that i don't know what it means..
             current_message = line.strip()
@@ -51,7 +52,7 @@ def process_messages(messages):
             continue
         
     df = pd.DataFrame(processed_data, columns=['Date', 'Time', 'Sender', 'Message'])
-    df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y')
+    df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y').dt.date
     
     return df
 
